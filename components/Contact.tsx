@@ -15,7 +15,7 @@ export default function Contact() {
           <div className="space-y-4">
             <div className="flex items-center justify-center">
               <FaEnvelope className="w-10 h-10 text-blue-500 mr-4" />
-              <a href="mailto:elshadsabziyev@gmail.com" className="text-blue-400 hover:text-blue-300 transition-colors text-lg">
+              <a href="mailto:mail@elshadsabziyev.me" className="text-blue-400 hover:text-blue-300 transition-colors text-lg">
                 mail@elshadsabziyev.me
               </a>
             </div>
